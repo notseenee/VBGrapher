@@ -1,0 +1,16 @@
+frmMain = 98, 123, 985, 563, C, 10, 4, 612, 480, C
+modFunctionRecord = 118, 85, 1010, 507, C
+frmAbout = 174, 71, 1061, 513, C, 182, 182, 1069, 624, C
+frmAddFunc = 0, 0, 882, 432, C, 208, 208, 1090, 640, C
+frmLicence = 26, 26, 915, 448, C, 26, 26, 915, 448, C
+frmAcknowledgements = 52, 52, 944, 474, C, 78, 78, 970, 500, C
+frmFuncList = 130, 130, 1010, 552, C, 26, 26, 906, 448, C
+modPostfix = 0, 0, 880, 422, C
+modEvaluator = 28, 441, 908, 863, C
+modDrawFunc = 156, 156, 1036, 588, C
+modGraph = 156, 156, 1036, 588, C
+modDropdown = 26, 26, 906, 458, C
+modOptions = 182, 182, 1062, 614, C
+modCrosshairs = 130, 130, 1010, 562, C
+modDebug = 26, 26, 906, 458, C
+frmHelp = 78, 78, 958, 500, C, 208, 208, 1088, 630, C

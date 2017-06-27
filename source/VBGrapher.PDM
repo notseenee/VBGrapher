@@ -1,0 +1,288 @@
+[Root]
+Most Recent Package=VBGrapher Setup 1.0.2
+
+
+[Package|VBGrapher Setup v0.1.11|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+
+[Package|VBGrapher Setup v0.1.11|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VBGrapher Setup v0.1.11|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VBGrapher Setup v0.1.11|Files Found]
+
+[Package|VBGrapher Setup v0.1.11|Files Released]
+
+[Package|VBGrapher Setup v0.1.11|Missing Dependency Information]
+
+[Package|VBGrapher Setup v0.1.11|Out-of-Date Dependency Information]
+
+[Package|VBGrapher Setup v0.1.11|Files Added]
+
+[Package|VBGrapher Setup v0.1.11|Files Removed]
+
+[Package|VBGrapher Setup v0.1.11|Files In Project]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|VBGrapher Setup v0.1.11|Configure Registry Files]
+Applicable=No
+
+[Package|VBGrapher Setup v0.1.11|Configure Remote Servers]
+Applicable=No
+
+[Package|VBGrapher Setup v0.1.11|Install Locations]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|VBGrapher Setup v0.1.11|Configure Shared Files]
+Applicable=Yes
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=No
+
+[Package|VBGrapher Setup v0.1.11|Distribution]
+Type=single
+Size=
+Title=VBGrapher
+
+[Package|VBGrapher Setup v0.1.11|IconGroups]
+Group0=VBGrapher
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|VBGrapher Setup v0.1.11|VBGrapher]
+Icon1=VBGrapher.exe
+Title1=VBGrapher
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|VBGrapher Setup v0.1.11|Package]
+PackageFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+ProjectFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher
+ServerSideCab=
+File1=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\setup.exe
+File2=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\Setup.Lst
+File3=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\VBGrapher.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|VBGrapher Setup 1.0.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+
+[Package|VBGrapher Setup 1.0.1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VBGrapher Setup 1.0.1|Files Found]
+
+[Package|VBGrapher Setup 1.0.1|Files Released]
+
+[Package|VBGrapher Setup 1.0.1|Missing Dependency Information]
+
+[Package|VBGrapher Setup 1.0.1|Out-of-Date Dependency Information]
+
+[Package|VBGrapher Setup 1.0.1|Files Added]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\resources.res=
+
+[Package|VBGrapher Setup 1.0.1|Files Removed]
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\riched32.dll=
+c:\windows\syswow64\richtx32.ocx=
+
+[Package|VBGrapher Setup 1.0.1|Files In Project]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\RICHTX32.OCX=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\resources.res=Yes
+
+[Package|VBGrapher Setup 1.0.1|Configure Registry Files]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.1|Configure Remote Servers]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.1|Install Locations]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\resources.res=$(AppPath)
+
+[Package|VBGrapher Setup 1.0.1|Configure Shared Files]
+Applicable=Yes
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=No
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\resources.res=No
+
+[Package|VBGrapher Setup 1.0.1|Distribution]
+Type=single
+Size=
+Title=VBGrapher
+
+[Package|VBGrapher Setup 1.0.1|IconGroups]
+Group0=VBGrapher
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|VBGrapher Setup 1.0.1|VBGrapher]
+Icon1=VBGrapher.exe
+Title1=VBGrapher
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|VBGrapher Setup 1.0.1|Package]
+PackageFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+ProjectFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher
+ServerSideCab=
+File1=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\setup.exe
+File2=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\Setup.Lst
+File3=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\VBGrapher.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|VBGrapher Setup 1.0.2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+
+[Package|VBGrapher Setup 1.0.2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|VBGrapher Setup 1.0.2|Files Found]
+
+[Package|VBGrapher Setup 1.0.2|Files Released]
+
+[Package|VBGrapher Setup 1.0.2|Missing Dependency Information]
+
+[Package|VBGrapher Setup 1.0.2|Out-of-Date Dependency Information]
+
+[Package|VBGrapher Setup 1.0.2|Files Added]
+
+[Package|VBGrapher Setup 1.0.2|Files Removed]
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\riched32.dll=
+c:\windows\syswow64\richtx32.ocx=
+
+[Package|VBGrapher Setup 1.0.2|Files In Project]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\RICHTX32.OCX=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|VBGrapher Setup 1.0.2|Configure Registry Files]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.2|Configure Remote Servers]
+Applicable=No
+
+[Package|VBGrapher Setup 1.0.2|Install Locations]
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|VBGrapher Setup 1.0.2|Configure Shared Files]
+Applicable=Yes
+D:\Google Drive\Year 12 2017\12SDD\VBGrapher\VBGrapher.exe=No
+
+[Package|VBGrapher Setup 1.0.2|Distribution]
+Type=single
+Size=
+Title=VBGrapher
+
+[Package|VBGrapher Setup 1.0.2|IconGroups]
+Group0=VBGrapher
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|VBGrapher Setup 1.0.2|VBGrapher]
+Icon1=VBGrapher.exe
+Title1=VBGrapher
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|VBGrapher Setup 1.0.2|Package]
+PackageFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package
+ProjectFolder=D:\Google Drive\Year 12 2017\12SDD\VBGrapher
+ServerSideCab=
+File1=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\setup.exe
+File2=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\Setup.Lst
+File3=D:\Google Drive\Year 12 2017\12SDD\VBGrapher\Package\VBGrapher.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,16 @@
+Colour picker code in frmNewFunc from Microsoft:
+https://msdn.microsoft.com/en-us/library/aa231234(v=vs.60).aspx
+
+Shunting-yard algorithm implemented based on instructions from:
+https://en.wikipedia.org/wiki/Shunting-yard_algorithm#The_algorithm_in_detail
+http://www.chris-j.co.uk/parsing.php
+NOTE: Code comments in modPostfix from Wikipedia
+
+Postfix evaluator implemented based on instructions from from:
+http://scriptasylum.com/tutorials/infix_postfix/algorithms/postfix-evaluation/index.htm
+
+Random colour generator in frmNewFunc from VB Helper:
+http://www.vb-helper.com/howto_random_colors.html
+
+Select all text subroutine in frmNewFunc from Tech Republic:
+http://www.techrepublic.com/article/vb6-tip-selecting-all-text-when-a-text-box-gets-the-focus/
